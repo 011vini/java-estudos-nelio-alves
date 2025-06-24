@@ -11,7 +11,7 @@ Este repositório contém todos os exercícios resolvidos durante o curso **"Jav
 ## Tecnologias
 
 - Java
-- IntelliJ IDEA (ou Eclipse)
+- Eclipse
 - Terminal/Console
 
 ## Objetivo
