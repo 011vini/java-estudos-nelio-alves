@@ -1,4 +1,3 @@
-package Exercicios_seção3;
 import java.util.Locale;
 
 public class Exercicio1 {
