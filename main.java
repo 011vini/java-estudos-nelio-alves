@@ -1,22 +1,18 @@
-import java.util.Locale;
-import java.util.Scanner;
-
-public class main {
+public class main{
     public static void main(String[] args) {
-        Locale.setDefault(Locale.US);
-        Scanner sc = new Scanner(System.in);
 
-            String x;
-            int y;
-            double z;
-            x = sc.next();
-            y = sc.nextInt();
-            z = sc.nextDouble();
-            System.out.println("dados digitados: ");
-            System.out.println(x);
-            System.out.println(y);
-            System.out.println(z);
+        double x = 3.0;
+        double y = 4.0;
+        double z = -5.0;
+        double A, B, C;
 
-        sc.close();
+        A = Math.sqrt(x);
+        B = Math.sqrt(y);
+        C = Math.sqrt(25);
+        System.out.println("Raiz quadrada de " + x + " = " + A);
+        System.out.println("Raiz quadrada de " + y + " = " + B);
+        System.out.println("Raiz quadrada de " + 25 + " = " + C);
+
+        A = Math.pow(x, y)
     }
 }
