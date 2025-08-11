@@ -7,7 +7,6 @@ public class Exercicio1 {
 
         int age = 30;
         int code = 5290;
-        char gender = 'f';
 
         double price1 = 2100.0;
         double price2 = 650.50;
