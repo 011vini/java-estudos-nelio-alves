@@ -1,12 +1,27 @@
+import java.util.Scanner;
+
 public class main {
     public static void main(String[] args) {
-        int x = 5;
+        Scanner sc = new Scanner(System.in);
+        int hora;
 
-        if (x < 0) {
-            System.out.println("boa tarde");
+        System.out.println("Digite as horas:");
+        hora = sc.nextInt();
+
+        if (hora < 12 && hora > 6) {
+
+            System.out.println("Bom dia, tenha um bom dia");
         }
+
         else {
-            System.out.println("Boa noite");
+            if (hora >= 12 && hora < 19) {
+                System.out.println("Boa tarde");
+            }
+            else {
+                System.out.println("Boa noite");
+            }
         }
+
+        sc.close();
     }
 }
