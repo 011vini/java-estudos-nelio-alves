@@ -30,17 +30,17 @@ public class Exercicio3{
 
         
         
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
             System.out.print("Digite um número inteiro: ");
             int n2 = sc.nextInt();
-            sc.nextLine();
+            scanner.nextLine();
 
             System.out.print("digite seu nome: ");
-            String nome = sc.nextLine();
+            String nome = scanner.nextLine();
 
             System.out.print("Digite um numero com ponto flutuante: ");
-            double n3 = sc.nextDouble();
+            double n3 = scanner.nextDouble();
             
             System.out.println("____________________________________________________");
             System.out.println("O número inteiro que você digitou foi: " + n2);
