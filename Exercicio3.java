@@ -33,7 +33,7 @@ public class Exercicio3{
         Scanner scanner = new Scanner(System.in);
 
             System.out.print("Digite um número inteiro: ");
-            int n2 = sc.nextInt();
+            int n2 = scanner.nextInt();
             scanner.nextLine();
 
             System.out.print("digite seu nome: ");
@@ -50,7 +50,7 @@ public class Exercicio3{
 
 
 
-        sc.close();
+        scanner.close();
 
         
     }
