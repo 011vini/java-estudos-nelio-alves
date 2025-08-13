@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
         Scanner sc = new Scanner(System.in);
         int hora;
 
@@ -24,4 +28,9 @@ public class main {
 
         sc.close();
     }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>>
+>>>>>>> Stashed changes
