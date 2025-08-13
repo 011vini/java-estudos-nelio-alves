@@ -4,6 +4,10 @@ public class main {
     public static void main(String[] args) {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
@@ -34,7 +38,12 @@ public class main {
     }
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>>
+>>>>>>> Stashed changes
 =======
 }
 >>>>>>>
