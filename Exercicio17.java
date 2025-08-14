@@ -6,7 +6,7 @@ public class Exercicio17 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         System.out.println("=============================================================");
-        System.out.println("        CALCULADOR DE MEDIA ENTRE IDADES!!!");
+        System.out.println("        CALCULADOR DE MÉDIA ENTRE IDADES!!!");
         System.out.println("=============================================================");
         int soma = 0;
         int cont = 0;
