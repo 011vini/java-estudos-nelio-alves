@@ -6,6 +6,7 @@ public class Exercicio18 {
 
         int N = sc.nextInt();
         int tabuada;
+        
         for(int i = 1;i <= 10; i++) {
             tabuada = N * i;
             System.out.println(i + " x " + N + " = " + tabuada);
