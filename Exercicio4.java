@@ -18,7 +18,7 @@ public class Exercicio4 {
         double preco = area * 300.00;
 
         System.out.printf("Á area do seu terreno é de %.2f%n" , area );
-        System.out.printf("preço total: R$ %.2f%n" , preco );
+        System.out.printf("Preço total: R$ %.2f%n" , preco );
 
 
 
