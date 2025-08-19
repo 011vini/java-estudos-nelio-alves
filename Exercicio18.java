@@ -8,7 +8,7 @@ public class Exercicio18 {
         int tabuada;
         
         System.out.println("================================================");
-        System.out.println("               TABUADA");
+        System.out.println("                TABUADA");
         System.out.println("================================================");
 
         for(int i = 1;i <= 10; i++) {
