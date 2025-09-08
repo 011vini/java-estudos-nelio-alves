@@ -1,4 +1,10 @@
+//esse código calcula a soma dos números ímpares que estão entre dois valores inteiros informados pelo usuário.
+
+
+
+
 import java.util.Scanner;
+
 
 public class Exercicio19 {
     public static void main(String[] args) {
