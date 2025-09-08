@@ -2,7 +2,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Execicio19 {
+public class Execicio21 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
