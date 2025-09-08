@@ -3,21 +3,13 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int x = sc.nextInt();
-        int y = sc.nextInt();
-
-        while (x != y) {
-            if (x > y){
-                System.out.println("Decrescente.");
-            }
-            else {
-                System.out.println("Crescente");
-            }
-            x = sc.nextInt();
-            y = sc.nextInt();
-
+        int N = sc.nextInt();
+        int soma = 0;
+        for (int i=0; i <= N; i++){
+            soma += i;
         }
 
+        System.out.println(soma);
         sc.close();
     }
 }
